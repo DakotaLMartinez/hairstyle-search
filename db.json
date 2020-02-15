@@ -1,0 +1,85 @@
+{
+  "hair_styles": [
+    {
+      "id": 1,
+      "title": "Box Braids",
+      "description": "Long single braid, can be used with extensions",
+      "photoUrl": "http://t0.gstatic.com/images?q=tbn%3AANd9GcT1kYeXn-g-CgkwhJH8T80Tja2s2OEpg91yx4TVCbP40so3KKQcuD6Ij3dkoMdX34FY8_-ZU1Jz&usqp=CAc",
+      "styleType": "Braids",
+      "hairTypes": ["Straight", "Kinky", "Curly"],
+      "occasion": "Any"
+    },
+    {
+      "id": 2,
+      "title": "Bob",
+      "description": "Short, blunt cut",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsCX16Iqb_biGLMwMm_9iUYV_VHHfZ5DTW2VruQ0ycJ2GVX-WN",
+      "styleType": "Bob",
+      "hairTypes": ["Straight", "Wavy"],
+      "occasion": "Any"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    },
+    {
+      "id": 7,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    },
+    {
+      "id": 8,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    },
+    {
+      "id": 9,
+      "title": "",
+      "description": "",
+      "photoUrl": "",
+      "styleType": "",
+      "hairTypes": "",
+      "occasion": ""
+    }
+  ]
+}
